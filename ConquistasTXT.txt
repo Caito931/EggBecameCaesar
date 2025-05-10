@@ -1,0 +1,42 @@
+
+Easy (E)
+
+    * Sapinho - Pule um Total de 100 vezes ok
+
+    * Confusão em Triplo - Use o Tiro Triplo ok
+
+    * Campeão do Mundo - Vença um Jogo ok
+
+    * Perder Faz Parte - Perca um Jogo ok
+
+    * Brincadeira de Criança - Vença no Modo Fácil ok
+
+    * Assassino - Mate Seu Primeiro Inimigo ok
+
+    * Murro na Cara - Morra para o Canguru ok
+
+    * Ataque do Tubarão - Morra para o Tubarão ok
+
+    * Bananada - Morra para a Banana ok
+
+    * Para o Infinito e Além - Use o Jetpack ok
+
+    * Recarregando - Recarregue Pela Primeira Vez ok
+
+    * Trocando o Motor - Reabasteça Pela Primeira Vez ok
+
+Medium (M)
+
+    * Atirador Profissional - Atire um Total de 1000 Vezes ok
+
+    * Está Ficando Mais Difícil - Vença no Modo Normal ok
+
+Hard (H)
+
+    * Verdadeiro Cesar (Caesar) - Vença no Modo Difícil ok
+
+    * César Impecável - Vença o Modo Difícil sem Tomar Dano ok
+
+    * VERDADEIRO CÉSAR - Consiga todas as Conquistas ok
+
+Total: 17
